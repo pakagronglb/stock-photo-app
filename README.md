@@ -32,7 +32,7 @@ A modern and responsive stock photo application that allows users to browse, sea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-photo-app.git
+git clone https://github.com/pakagronglb/stock-photo-app.git
 ```
 
 2. Navigate to the project directory:
